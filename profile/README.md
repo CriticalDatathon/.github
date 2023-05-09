@@ -2,8 +2,6 @@
 
 Welcome to the Critical Datathon 2023 GitHub organization! :tada: We are hosting the 2023 MIT Critical Datathon on May 18-19th at Riverfront Office Park in Cambridge, MA. This is the main hub for repositories that host various datathon projects, resources, and tools.
 
-Check out our website for more details: https://criticaldatathon.github.io/
-
 ## The Challenge :trophy:
 
 The main challenge of this Datathon is to create Correction Models for Pulse Oximetry that map SaO2 from SpO2 measurements. Patients of color often have falsely elevated O2 readings due to limitations in pulse oximetry performance across different ethnicities. Our focus is on Patient Safety.
