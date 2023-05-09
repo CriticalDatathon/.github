@@ -14,7 +14,7 @@ We believe that reproducible, transparent research can help advance the field, s
 
 Our repositories consist of projects, resources, and tools used during the datathon. Here's a brief overview of what you can find:
 
-- **Team Repositories (team-1 to team-10)**: :chart_with_upwards_trend: These repositories contain notebooks assigned to each group of students participating in the datathon.
+- **Team Repositories (team-1 to team-10)**: :chart_with_upwards_trend: These repositories contain notebooks assigned to each participating team.
 - **Workshops**: :books: This repository contains materials for the workshops held during the datathon.
 - **Welcome Packages**: :gift: Welcome packages and orientation for [mentors](https://github.com/CriticalDatathon/welcome-mentors) and [students](https://github.com/CriticalDatathon/welcome-students) participating in the datathon.
 - **Data Preparation**: :wrench: [Data-prep](https://github.com/CriticalDatathon/data-prep) repository contains code to curate ICU Pulse Oximetry data.
